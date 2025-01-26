@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:iron_axe",
     "components": {
-      "minecraft:custom_model_data": 91,
+      "minecraft:custom_model_data": 6,
       "minecraft:trim": {
         "material": "minecraft:gold",
         "pattern": "minecraft:sentry"

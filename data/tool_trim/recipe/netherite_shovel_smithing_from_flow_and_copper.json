@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:netherite_shovel",
     "components": {
-      "minecraft:custom_model_data": 89,
+      "minecraft:custom_model_data": 165,
       "minecraft:trim": {
         "material": "minecraft:copper",
         "pattern": "minecraft:flow"

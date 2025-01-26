@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:stone_axe",
     "components": {
-      "minecraft:custom_model_data": 145,
+      "minecraft:custom_model_data": 9,
       "minecraft:trim": {
         "material": "minecraft:lapis",
         "pattern": "minecraft:sentry"

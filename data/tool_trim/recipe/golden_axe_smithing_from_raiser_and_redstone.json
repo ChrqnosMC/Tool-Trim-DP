@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:golden_axe",
     "components": {
-      "minecraft:custom_model_data": 61,
+      "minecraft:custom_model_data": 64,
       "minecraft:trim": {
         "material": "minecraft:redstone",
         "pattern": "minecraft:raiser"

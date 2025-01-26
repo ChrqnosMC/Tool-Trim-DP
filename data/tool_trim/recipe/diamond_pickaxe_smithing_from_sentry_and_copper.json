@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:diamond_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 73,
+      "minecraft:custom_model_data": 5,
       "minecraft:trim": {
         "material": "minecraft:copper",
         "pattern": "minecraft:sentry"

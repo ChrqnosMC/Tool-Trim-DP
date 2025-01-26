@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:stone_sword",
     "components": {
-      "minecraft:custom_model_data": 16,
+      "minecraft:custom_model_data": 151,
       "minecraft:trim": {
         "material": "minecraft:quartz",
         "pattern": "minecraft:spire"

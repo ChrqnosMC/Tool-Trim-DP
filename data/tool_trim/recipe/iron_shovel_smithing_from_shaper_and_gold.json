@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:iron_shovel",
     "components": {
-      "minecraft:custom_model_data": 98,
+      "minecraft:custom_model_data": 76,
       "minecraft:trim": {
         "material": "minecraft:gold",
         "pattern": "minecraft:shaper"

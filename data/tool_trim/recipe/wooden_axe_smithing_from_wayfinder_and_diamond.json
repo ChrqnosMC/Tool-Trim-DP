@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:wooden_axe",
     "components": {
-      "minecraft:custom_model_data": 132,
+      "minecraft:custom_model_data": 58,
       "minecraft:trim": {
         "material": "minecraft:diamond",
         "pattern": "minecraft:wayfinder"

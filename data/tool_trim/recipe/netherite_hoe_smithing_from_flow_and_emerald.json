@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:netherite_hoe",
     "components": {
-      "minecraft:custom_model_data": 125,
+      "minecraft:custom_model_data": 167,
       "minecraft:trim": {
         "material": "minecraft:emerald",
         "pattern": "minecraft:flow"

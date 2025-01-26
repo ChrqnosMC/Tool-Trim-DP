@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:netherite_axe",
     "components": {
-      "minecraft:custom_model_data": 174,
+      "minecraft:custom_model_data": 120,
       "minecraft:trim": {
         "material": "minecraft:amethyst",
         "pattern": "minecraft:tide"

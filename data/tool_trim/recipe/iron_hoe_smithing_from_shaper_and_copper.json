@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:iron_hoe",
     "components": {
-      "minecraft:custom_model_data": 80,
+      "minecraft:custom_model_data": 75,
       "minecraft:trim": {
         "material": "minecraft:copper",
         "pattern": "minecraft:shaper"

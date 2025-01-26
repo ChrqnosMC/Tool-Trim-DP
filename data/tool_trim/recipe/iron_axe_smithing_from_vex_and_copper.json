@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:iron_axe",
     "components": {
-      "minecraft:custom_model_data": 74,
+      "minecraft:custom_model_data": 15,
       "minecraft:trim": {
         "material": "minecraft:copper",
         "pattern": "minecraft:vex"
