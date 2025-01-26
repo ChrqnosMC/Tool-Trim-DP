@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:golden_hoe",
     "components": {
-      "minecraft:item_model": "tool_trim:golden_hoe_spire_and_quartz_trim",
+      "minecraft:custom_model_data": 151,
       "minecraft:trim": {
         "material": "minecraft:quartz",
         "pattern": "minecraft:spire"

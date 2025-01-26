@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:stone_axe",
     "components": {
-      "minecraft:item_model": "tool_trim:stone_axe_flow_and_lapis_trim",
+      "minecraft:custom_model_data": 169,
       "minecraft:trim": {
         "material": "minecraft:lapis",
         "pattern": "minecraft:flow"

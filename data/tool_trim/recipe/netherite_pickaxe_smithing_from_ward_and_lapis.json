@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:netherite_pickaxe",
     "components": {
-      "minecraft:item_model": "tool_trim:netherite_pickaxe_ward_and_lapis_trim",
+      "minecraft:custom_model_data": 99,
       "minecraft:trim": {
         "material": "minecraft:lapis",
         "pattern": "minecraft:ward"

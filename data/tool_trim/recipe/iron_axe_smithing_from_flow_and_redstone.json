@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:iron_axe",
     "components": {
-      "minecraft:item_model": "tool_trim:iron_axe_flow_and_redstone_trim",
+      "minecraft:custom_model_data": 164,
       "minecraft:trim": {
         "material": "minecraft:redstone",
         "pattern": "minecraft:flow"

@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:stone_sword",
     "components": {
-      "minecraft:item_model": "tool_trim:stone_sword_bolt_and_netherite_trim",
+      "minecraft:custom_model_data": 173,
       "minecraft:trim": {
         "material": "minecraft:netherite",
         "pattern": "minecraft:bolt"

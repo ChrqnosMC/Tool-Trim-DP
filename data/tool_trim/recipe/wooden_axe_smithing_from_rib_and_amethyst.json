@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:wooden_axe",
     "components": {
-      "minecraft:item_model": "tool_trim:wooden_axe_rib_and_amethyst_trim",
+      "minecraft:custom_model_data": 140,
       "minecraft:trim": {
         "material": "minecraft:amethyst",
         "pattern": "minecraft:rib"

@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:golden_hoe",
     "components": {
-      "minecraft:item_model": "tool_trim:golden_hoe_wild_and_iron_trim",
+      "minecraft:custom_model_data": 22,
       "minecraft:trim": {
         "material": "minecraft:iron",
         "pattern": "minecraft:wild"

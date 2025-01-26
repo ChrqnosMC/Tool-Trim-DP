@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:diamond_axe",
     "components": {
-      "minecraft:item_model": "tool_trim:diamond_axe_ward_and_gold_trim",
+      "minecraft:custom_model_data": 96,
       "minecraft:trim": {
         "material": "minecraft:gold",
         "pattern": "minecraft:ward"

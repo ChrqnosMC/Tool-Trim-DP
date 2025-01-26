@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:diamond_shovel",
     "components": {
-      "minecraft:item_model": "tool_trim:diamond_shovel_spire_and_emerald_trim",
+      "minecraft:custom_model_data": 157,
       "minecraft:trim": {
         "material": "minecraft:emerald",
         "pattern": "minecraft:spire"

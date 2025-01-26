@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:diamond_axe",
     "components": {
-      "minecraft:item_model": "tool_trim:diamond_axe_bolt_and_diamond_trim",
+      "minecraft:custom_model_data": 178,
       "minecraft:trim": {
         "material": "minecraft:diamond",
         "pattern": "minecraft:bolt"

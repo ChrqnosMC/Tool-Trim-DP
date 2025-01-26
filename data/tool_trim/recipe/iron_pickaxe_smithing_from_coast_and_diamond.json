@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:iron_pickaxe",
     "components": {
-      "minecraft:item_model": "tool_trim:iron_pickaxe_coast_and_diamond_trim",
+      "minecraft:custom_model_data": 38,
       "minecraft:trim": {
         "material": "minecraft:diamond",
         "pattern": "minecraft:coast"

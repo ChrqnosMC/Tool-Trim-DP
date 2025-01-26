@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:wooden_sword",
     "components": {
-      "minecraft:item_model": "tool_trim:wooden_sword_snout_and_diamond_trim",
+      "minecraft:custom_model_data": 128,
       "minecraft:trim": {
         "material": "minecraft:diamond",
         "pattern": "minecraft:snout"

@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:iron_hoe",
     "components": {
-      "minecraft:item_model": "tool_trim:iron_hoe_bolt_and_gold_trim",
+      "minecraft:custom_model_data": 176,
       "minecraft:trim": {
         "material": "minecraft:gold",
         "pattern": "minecraft:bolt"

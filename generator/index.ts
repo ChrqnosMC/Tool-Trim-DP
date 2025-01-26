@@ -85,18 +85,19 @@ async function writeItemRecipes() {
   const promises: (()=>Promise<void>)[] = []
 
   await mkdir(`./generator/output/data/tool_trim/recipe`, { recursive: true })
-  
+
   for (const tool of tools) {
     let [toolMaterial, toolName] = tool.split('_')
+    
+    let modelDataIndex = 1
 
     if (!toolName) {
       toolName = toolMaterial
       toolMaterial = ''
     }
 
-    for (const [, [material]] of Object.entries(items).entries()) {
-      for (const trim of trims) {
-
+    for (const trim of trims) {
+      for (const [, [material]] of Object.entries(items).entries()) {
         const isSameMaterial = compareMaterial(material, toolMaterial)
 
         const recipeFile = isSameMaterial
@@ -110,7 +111,7 @@ async function writeItemRecipes() {
             count: 1,
             id: `minecraft:${tool}`,
             components: {
-              'minecraft:item_model': `tool_trim:${tool}_${trim}_and_${material}_trim`,
+              'minecraft:custom_model_data': modelDataIndex++,
               'minecraft:trim': {
                 material: `minecraft:${material}`,
                 pattern: `minecraft:${trim}`

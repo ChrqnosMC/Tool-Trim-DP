@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:stone_hoe",
     "components": {
-      "minecraft:item_model": "tool_trim:stone_hoe_coast_and_netherite_trim",
+      "minecraft:custom_model_data": 33,
       "minecraft:trim": {
         "material": "minecraft:netherite",
         "pattern": "minecraft:coast"

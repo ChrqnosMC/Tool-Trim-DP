@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:iron_pickaxe",
     "components": {
-      "minecraft:item_model": "tool_trim:iron_pickaxe_raiser_and_netherite_trim",
+      "minecraft:custom_model_data": 63,
       "minecraft:trim": {
         "material": "minecraft:netherite",
         "pattern": "minecraft:raiser"

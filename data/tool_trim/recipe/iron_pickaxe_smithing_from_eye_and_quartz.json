@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:iron_pickaxe",
     "components": {
-      "minecraft:item_model": "tool_trim:iron_pickaxe_eye_and_quartz_trim",
+      "minecraft:custom_model_data": 141,
       "minecraft:trim": {
         "material": "minecraft:quartz",
         "pattern": "minecraft:eye"

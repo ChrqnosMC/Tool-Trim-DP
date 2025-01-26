@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:golden_pickaxe",
     "components": {
-      "minecraft:item_model": "tool_trim:golden_pickaxe_raiser_and_iron_trim",
+      "minecraft:custom_model_data": 62,
       "minecraft:trim": {
         "material": "minecraft:iron",
         "pattern": "minecraft:raiser"

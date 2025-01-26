@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:diamond_shovel",
     "components": {
-      "minecraft:item_model": "tool_trim:diamond_shovel_host_and_diamond_trim",
+      "minecraft:custom_model_data": 88,
       "minecraft:trim": {
         "material": "minecraft:diamond",
         "pattern": "minecraft:host"

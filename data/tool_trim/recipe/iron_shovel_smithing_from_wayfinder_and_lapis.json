@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:iron_shovel",
     "components": {
-      "minecraft:item_model": "tool_trim:iron_shovel_wayfinder_and_lapis_trim",
+      "minecraft:custom_model_data": 59,
       "minecraft:trim": {
         "material": "minecraft:lapis",
         "pattern": "minecraft:wayfinder"

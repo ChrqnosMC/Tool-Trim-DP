@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:netherite_sword",
     "components": {
-      "minecraft:item_model": "tool_trim:netherite_sword_coast_and_quartz_trim",
+      "minecraft:custom_model_data": 31,
       "minecraft:trim": {
         "material": "minecraft:quartz",
         "pattern": "minecraft:coast"

@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:netherite_axe",
     "components": {
-      "minecraft:item_model": "tool_trim:netherite_axe_ward_and_emerald_trim",
+      "minecraft:custom_model_data": 97,
       "minecraft:trim": {
         "material": "minecraft:emerald",
         "pattern": "minecraft:ward"
