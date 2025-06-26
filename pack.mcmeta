@@ -1,0 +1,32 @@
+{
+  "pack": {
+    "pack_format": 80,
+    "supported_formats": [45,80],
+    "description": "Tool Trim"
+  },
+	"overlays": {
+		"entries": [
+			{
+				"formats": {
+					"min_inclusive": 45,
+					"max_inclusive": 51
+				},
+				"directory": "overlay_45"
+			},
+			{
+				"formats": {
+					"min_inclusive": 52,
+					"max_inclusive": 58
+				},
+				"directory": "overlay_52"
+			},
+			{
+				"formats": {
+					"min_inclusive": 59,
+					"max_inclusive": 80
+				},
+				"directory": "overlay_59"
+			}
+		]
+	}
+}
