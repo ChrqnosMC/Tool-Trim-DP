@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:gold_ingot",
+  "base": "minecraft:iron_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_shovel",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          10
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:gold",
+        "pattern": "minecraft:ward"
+      }
+    }
+  },
+  "template": "minecraft:ward_armor_trim_smithing_template"
+}

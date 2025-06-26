@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:netherite_ingot",
+  "base": "minecraft:netherite_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_hoe",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          18
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:netherite",
+        "pattern": "minecraft:bolt"
+      }
+    }
+  },
+  "template": "minecraft:bolt_armor_trim_smithing_template"
+}

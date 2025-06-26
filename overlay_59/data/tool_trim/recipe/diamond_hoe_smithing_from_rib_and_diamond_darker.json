@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:diamond",
+  "base": "minecraft:diamond_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_hoe",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          14
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:diamond",
+        "pattern": "minecraft:rib"
+      }
+    }
+  },
+  "template": "minecraft:rib_armor_trim_smithing_template"
+}

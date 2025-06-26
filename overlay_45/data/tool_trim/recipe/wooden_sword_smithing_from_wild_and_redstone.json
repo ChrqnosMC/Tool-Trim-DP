@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:redstone"
+  },
+  "base": {
+    "item": "minecraft:wooden_sword"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_sword",
+    "components": {
+      "minecraft:custom_model_data": 24,
+      "minecraft:trim": {
+        "material": "minecraft:redstone",
+        "pattern": "minecraft:wild"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:wild_armor_trim_smithing_template"
+  }
+}

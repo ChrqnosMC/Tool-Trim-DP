@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "base": {
+    "item": "minecraft:iron_hoe"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_hoe",
+    "components": {
+      "minecraft:custom_model_data": 120,
+      "minecraft:trim": {
+        "material": "minecraft:amethyst",
+        "pattern": "minecraft:tide"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:tide_armor_trim_smithing_template"
+  }
+}

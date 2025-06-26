@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:amethyst_shard",
+  "base": "minecraft:wooden_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_shovel",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          5
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:amethyst",
+        "pattern": "minecraft:dune"
+      }
+    }
+  },
+  "template": "minecraft:dune_armor_trim_smithing_template"
+}

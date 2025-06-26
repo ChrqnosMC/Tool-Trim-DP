@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:emerald"
+  },
+  "base": {
+    "item": "minecraft:diamond_hoe"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_hoe",
+    "components": {
+      "minecraft:custom_model_data": 107,
+      "minecraft:trim": {
+        "material": "minecraft:emerald",
+        "pattern": "minecraft:silence"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:silence_armor_trim_smithing_template"
+  }
+}

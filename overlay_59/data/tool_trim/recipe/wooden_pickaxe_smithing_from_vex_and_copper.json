@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:copper_ingot",
+  "base": "minecraft:wooden_pickaxe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_pickaxe",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          2
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:copper",
+        "pattern": "minecraft:vex"
+      }
+    }
+  },
+  "template": "minecraft:vex_armor_trim_smithing_template"
+}

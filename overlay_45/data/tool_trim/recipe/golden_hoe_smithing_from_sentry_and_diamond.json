@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:diamond"
+  },
+  "base": {
+    "item": "minecraft:golden_hoe"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_hoe",
+    "components": {
+      "minecraft:custom_model_data": 8,
+      "minecraft:trim": {
+        "material": "minecraft:diamond",
+        "pattern": "minecraft:sentry"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:sentry_armor_trim_smithing_template"
+  }
+}

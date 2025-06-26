@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:gold_ingot",
+  "base": "minecraft:stone_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_shovel",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          12
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:gold",
+        "pattern": "minecraft:tide"
+      }
+    }
+  },
+  "template": "minecraft:tide_armor_trim_smithing_template"
+}

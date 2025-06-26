@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:copper_ingot",
+  "base": "minecraft:golden_pickaxe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_pickaxe",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          12
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:copper",
+        "pattern": "minecraft:tide"
+      }
+    }
+  },
+  "template": "minecraft:tide_armor_trim_smithing_template"
+}

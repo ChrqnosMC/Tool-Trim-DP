@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:gold_ingot",
+  "base": "minecraft:wooden_axe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_axe",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          18
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:gold",
+        "pattern": "minecraft:bolt"
+      }
+    }
+  },
+  "template": "minecraft:bolt_armor_trim_smithing_template"
+}

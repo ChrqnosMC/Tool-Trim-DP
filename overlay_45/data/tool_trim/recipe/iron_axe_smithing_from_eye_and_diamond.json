@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:diamond"
+  },
+  "base": {
+    "item": "minecraft:iron_axe"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_axe",
+    "components": {
+      "minecraft:custom_model_data": 148,
+      "minecraft:trim": {
+        "material": "minecraft:diamond",
+        "pattern": "minecraft:eye"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:eye_armor_trim_smithing_template"
+  }
+}

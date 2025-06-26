@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:diamond",
+  "base": "minecraft:stone_axe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_axe",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          9
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:diamond",
+        "pattern": "minecraft:host"
+      }
+    }
+  },
+  "template": "minecraft:host_armor_trim_smithing_template"
+}

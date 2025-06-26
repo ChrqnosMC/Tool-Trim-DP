@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:redstone",
+  "base": "minecraft:netherite_pickaxe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_pickaxe",
+    "components": {
+      "minecraft:custom_model_data": 4,
+      "minecraft:trim": {
+        "material": "minecraft:redstone",
+        "pattern": "minecraft:sentry"
+      }
+    }
+  },
+  "template": "minecraft:sentry_armor_trim_smithing_template"
+}

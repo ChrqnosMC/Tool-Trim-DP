@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:gold_ingot",
+  "base": "minecraft:wooden_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_hoe",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          16
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:gold",
+        "pattern": "minecraft:spire"
+      }
+    }
+  },
+  "template": "minecraft:spire_armor_trim_smithing_template"
+}

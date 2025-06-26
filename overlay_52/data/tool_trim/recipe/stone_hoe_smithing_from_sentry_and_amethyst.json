@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:amethyst_shard",
+  "base": "minecraft:stone_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_hoe",
+    "components": {
+      "minecraft:custom_model_data": 10,
+      "minecraft:trim": {
+        "material": "minecraft:amethyst",
+        "pattern": "minecraft:sentry"
+      }
+    }
+  },
+  "template": "minecraft:sentry_armor_trim_smithing_template"
+}

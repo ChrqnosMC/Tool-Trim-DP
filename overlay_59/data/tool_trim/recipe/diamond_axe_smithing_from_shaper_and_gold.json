@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:gold_ingot",
+  "base": "minecraft:diamond_axe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_axe",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          8
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:gold",
+        "pattern": "minecraft:shaper"
+      }
+    }
+  },
+  "template": "minecraft:shaper_armor_trim_smithing_template"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:quartz"
+  },
+  "base": {
+    "item": "minecraft:diamond_hoe"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_hoe",
+    "components": {
+      "minecraft:custom_model_data": 81,
+      "minecraft:trim": {
+        "material": "minecraft:quartz",
+        "pattern": "minecraft:host"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:host_armor_trim_smithing_template"
+  }
+}

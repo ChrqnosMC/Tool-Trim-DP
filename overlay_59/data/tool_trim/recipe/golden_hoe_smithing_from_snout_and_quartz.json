@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:quartz",
+  "base": "minecraft:golden_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_hoe",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          13
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:quartz",
+        "pattern": "minecraft:snout"
+      }
+    }
+  },
+  "template": "minecraft:snout_armor_trim_smithing_template"
+}

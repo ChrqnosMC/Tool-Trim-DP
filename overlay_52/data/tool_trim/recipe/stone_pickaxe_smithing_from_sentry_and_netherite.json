@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:netherite_ingot",
+  "base": "minecraft:stone_pickaxe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_pickaxe",
+    "components": {
+      "minecraft:custom_model_data": 3,
+      "minecraft:trim": {
+        "material": "minecraft:netherite",
+        "pattern": "minecraft:sentry"
+      }
+    }
+  },
+  "template": "minecraft:sentry_armor_trim_smithing_template"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:iron_ingot",
+  "base": "minecraft:stone_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_shovel",
+    "components": {
+      "minecraft:custom_model_data": 2,
+      "minecraft:trim": {
+        "material": "minecraft:iron",
+        "pattern": "minecraft:sentry"
+      }
+    }
+  },
+  "template": "minecraft:sentry_armor_trim_smithing_template"
+}

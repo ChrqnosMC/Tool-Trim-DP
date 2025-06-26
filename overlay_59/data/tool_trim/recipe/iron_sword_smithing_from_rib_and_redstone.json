@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:redstone",
+  "base": "minecraft:iron_sword",
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_sword",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          14
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:redstone",
+        "pattern": "minecraft:rib"
+      }
+    }
+  },
+  "template": "minecraft:rib_armor_trim_smithing_template"
+}

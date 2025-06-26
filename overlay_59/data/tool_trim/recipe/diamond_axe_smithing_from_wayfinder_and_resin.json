@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:resin_brick",
+  "base": "minecraft:diamond_axe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_axe",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          6
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:resin",
+        "pattern": "minecraft:wayfinder"
+      }
+    }
+  },
+  "template": "minecraft:wayfinder_armor_trim_smithing_template"
+}

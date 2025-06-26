@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:iron_ingot"
+  },
+  "base": {
+    "item": "minecraft:stone_sword"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_sword",
+    "components": {
+      "minecraft:custom_model_data": 132,
+      "minecraft:trim": {
+        "material": "minecraft:iron",
+        "pattern": "minecraft:rib"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:rib_armor_trim_smithing_template"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:diamond",
+  "base": "minecraft:netherite_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_shovel",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          2
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:diamond",
+        "pattern": "minecraft:vex"
+      }
+    }
+  },
+  "template": "minecraft:vex_armor_trim_smithing_template"
+}

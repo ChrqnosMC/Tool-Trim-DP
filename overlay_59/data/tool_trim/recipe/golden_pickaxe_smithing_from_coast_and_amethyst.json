@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:amethyst_shard",
+  "base": "minecraft:golden_pickaxe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_pickaxe",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          4
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:amethyst",
+        "pattern": "minecraft:coast"
+      }
+    }
+  },
+  "template": "minecraft:coast_armor_trim_smithing_template"
+}

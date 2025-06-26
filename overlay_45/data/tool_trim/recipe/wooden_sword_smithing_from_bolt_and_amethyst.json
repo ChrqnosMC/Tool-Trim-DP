@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "base": {
+    "item": "minecraft:wooden_sword"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_sword",
+    "components": {
+      "minecraft:custom_model_data": 180,
+      "minecraft:trim": {
+        "material": "minecraft:amethyst",
+        "pattern": "minecraft:bolt"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:bolt_armor_trim_smithing_template"
+  }
+}

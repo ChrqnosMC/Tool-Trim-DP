@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:emerald",
+  "base": "minecraft:stone_sword",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_sword",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          6
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:emerald",
+        "pattern": "minecraft:wayfinder"
+      }
+    }
+  },
+  "template": "minecraft:wayfinder_armor_trim_smithing_template"
+}

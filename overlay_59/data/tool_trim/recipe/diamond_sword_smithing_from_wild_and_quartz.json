@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:quartz",
+  "base": "minecraft:diamond_sword",
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_sword",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          3
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:quartz",
+        "pattern": "minecraft:wild"
+      }
+    }
+  },
+  "template": "minecraft:wild_armor_trim_smithing_template"
+}

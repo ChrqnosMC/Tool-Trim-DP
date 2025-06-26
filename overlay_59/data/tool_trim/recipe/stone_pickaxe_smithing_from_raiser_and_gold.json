@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:gold_ingot",
+  "base": "minecraft:stone_pickaxe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_pickaxe",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          7
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:gold",
+        "pattern": "minecraft:raiser"
+      }
+    }
+  },
+  "template": "minecraft:raiser_armor_trim_smithing_template"
+}

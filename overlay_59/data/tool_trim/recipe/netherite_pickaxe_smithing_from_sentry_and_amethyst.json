@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:amethyst_shard",
+  "base": "minecraft:netherite_pickaxe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_pickaxe",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          1
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:amethyst",
+        "pattern": "minecraft:sentry"
+      }
+    }
+  },
+  "template": "minecraft:sentry_armor_trim_smithing_template"
+}

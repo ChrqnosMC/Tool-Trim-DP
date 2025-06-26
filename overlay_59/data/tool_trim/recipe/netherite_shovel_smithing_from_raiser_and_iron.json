@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:iron_ingot",
+  "base": "minecraft:netherite_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_shovel",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          7
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:iron",
+        "pattern": "minecraft:raiser"
+      }
+    }
+  },
+  "template": "minecraft:raiser_armor_trim_smithing_template"
+}

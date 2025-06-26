@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:netherite_ingot",
+  "base": "minecraft:iron_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_shovel",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          6
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:netherite",
+        "pattern": "minecraft:wayfinder"
+      }
+    }
+  },
+  "template": "minecraft:wayfinder_armor_trim_smithing_template"
+}

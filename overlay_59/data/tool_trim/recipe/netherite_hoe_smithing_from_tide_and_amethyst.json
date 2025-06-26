@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:amethyst_shard",
+  "base": "minecraft:netherite_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_hoe",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          12
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:amethyst",
+        "pattern": "minecraft:tide"
+      }
+    }
+  },
+  "template": "minecraft:tide_armor_trim_smithing_template"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:redstone"
+  },
+  "base": {
+    "item": "minecraft:iron_hoe"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_hoe",
+    "components": {
+      "minecraft:custom_model_data": 144,
+      "minecraft:trim": {
+        "material": "minecraft:redstone",
+        "pattern": "minecraft:eye"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:eye_armor_trim_smithing_template"
+  }
+}

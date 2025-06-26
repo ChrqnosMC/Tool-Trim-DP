@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:lapis_lazuli"
+  },
+  "base": {
+    "item": "minecraft:netherite_shovel"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_shovel",
+    "components": {
+      "minecraft:custom_model_data": 129,
+      "minecraft:trim": {
+        "material": "minecraft:lapis",
+        "pattern": "minecraft:snout"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:snout_armor_trim_smithing_template"
+  }
+}

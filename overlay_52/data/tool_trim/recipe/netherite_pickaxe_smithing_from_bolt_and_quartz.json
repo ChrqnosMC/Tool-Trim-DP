@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:quartz",
+  "base": "minecraft:netherite_pickaxe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_pickaxe",
+    "components": {
+      "minecraft:custom_model_data": 171,
+      "minecraft:trim": {
+        "material": "minecraft:quartz",
+        "pattern": "minecraft:bolt"
+      }
+    }
+  },
+  "template": "minecraft:bolt_armor_trim_smithing_template"
+}

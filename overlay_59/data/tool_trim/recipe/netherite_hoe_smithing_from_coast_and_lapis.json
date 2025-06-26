@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:lapis_lazuli",
+  "base": "minecraft:netherite_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_hoe",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          4
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:lapis",
+        "pattern": "minecraft:coast"
+      }
+    }
+  },
+  "template": "minecraft:coast_armor_trim_smithing_template"
+}

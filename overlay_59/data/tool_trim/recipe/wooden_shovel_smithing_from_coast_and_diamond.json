@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:diamond",
+  "base": "minecraft:wooden_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_shovel",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          4
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:diamond",
+        "pattern": "minecraft:coast"
+      }
+    }
+  },
+  "template": "minecraft:coast_armor_trim_smithing_template"
+}
