@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:quartz",
+  "base": "minecraft:copper_pickaxe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:copper_pickaxe",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          15
+        ]
+      },
+      "minecraft:trim": {
+        "material": "minecraft:quartz",
+        "pattern": "minecraft:eye"
+      }
+    }
+  },
+  "template": "minecraft:eye_armor_trim_smithing_template"
+}
+
