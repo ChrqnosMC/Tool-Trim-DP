@@ -1,0 +1,5 @@
+{
+  "add": {
+    "minecraft:provides_trim_material": "tool_trim:dragon_breath"
+  }
+}
